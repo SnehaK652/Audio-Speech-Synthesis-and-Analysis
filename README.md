@@ -14,30 +14,41 @@ This repository contains a system designed to enhance the driving experience thr
 
 Audio Classification through neural networks
 
+
 🎯**Results**
+
 1.Data collection in vehicle:
+
 ![image](https://github.com/user-attachments/assets/7416538d-e137-43d1-a342-83d8dc877bd8)
 
 2.CSV file:
+
 ![image](https://github.com/user-attachments/assets/e65a3800-9fd1-472e-b08b-8ca8fc3782a9)
 
 3.Spectrogram:
+
 ![image](https://github.com/user-attachments/assets/4e0a687d-2303-490f-b88e-8ffc6fdabd2e)
 
 4.Accuracy per epoach:
+
 ![image](https://github.com/user-attachments/assets/2447ad47-971a-4bbb-abcb-8545866b6d7e)
 
 5.Losses per epoach:
+
 ![image](https://github.com/user-attachments/assets/c146e9e5-11d4-4326-9d5b-76affcbe923d)
 
 6.Prediction per audio file :
+
 Prediction of class using ANN :
+
 ![image](https://github.com/user-attachments/assets/33e472db-2202-427d-baaf-860cb0684578)
 
 Prediction of test accuracy using ANN:
+
 ![image](https://github.com/user-attachments/assets/eb8f883d-7096-4ea5-bd32-48b921fa254b)
 
 Prediction of test accuracy using CNN:
+
 ![image](https://github.com/user-attachments/assets/d66a2df1-6024-43a5-aeee-031da6a7d429)
 
 This project demonstrates the integration of machine learning and real-time signal processing to revolutionize the driving experience.
